@@ -7,11 +7,13 @@
 🚀Welcome🌎
 ### 👨🏻‍💻 Currently working on:
 
-
+<a src="https://www.java.com/"><img src="https://images.gm-aaa.cloud/img/2024/11/27/674647698e41b.ico"/></a>
+<a src="https://spring.io/"><img src="https://images.gm-aaa.cloud/img/2024/11/27/67464806b4776.ico"/></a>
+<a src="https://mariadb.com/"><img src="https://images.gm-aaa.cloud/img/2024/11/27/6746487c662c1.ico"/></a>
+<a src="https://redis.io/"><img src="https://images.gm-aaa.cloud/img/2024/11/27/674648fb57df4.ico"/></a>
+<a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
 <a src="https://vuejs.org/"><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-<a src="https://www.mysql.com/"><img src="https://img.icons8.com/color/48/000000/mysql.png"/></a>
-<a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
 <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
@@ -20,7 +22,7 @@
 
 📊 **status**
 
-<img align='right'   width="300" src="https://github-readme-stats.vercel.app/api?username=Gm-aaa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+<img align='left'   width="300" src="https://github-readme-stats.vercel.app/api?username=Gm-aaa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
 
 ⭐️ From [Gm-aaa](https://github.com/Gm-aaa)
