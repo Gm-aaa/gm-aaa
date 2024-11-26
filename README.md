@@ -15,15 +15,5 @@
 
 <img align='right'   width="300" src="https://github-readme-stats.vercel.app/api?username=Gm-aaa&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
-<!--START_SECTION:waka-->
-```text
-Java        1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   39.80 % 
-YAML        1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   30.65 % 
-Markdown    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-html/css/js 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-dockerfile  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-```
-<!--END_SECTION:waka-->
-
 
 ⭐️ From [Gm-aaa](https://github.com/Gm-aaa)
