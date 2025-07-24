@@ -7,10 +7,7 @@
 🚀Welcome🌎
 ### 👨🏻‍💻 Currently working on:
 
-<a src="https://www.java.com/"><img src="https://images.gm-aaa.cloud/img/2024/11/27/674647698e41b.ico"/></a>
-<a src="https://spring.io/"><img src="https://images.gm-aaa.cloud/img/2024/11/27/67464806b4776.ico"/></a>
-<a src="https://mariadb.com/"><img src="https://images.gm-aaa.cloud/img/2024/11/27/6746487c662c1.ico"/></a>
-<a src="https://redis.io/"><img src="https://images.gm-aaa.cloud/img/2024/11/27/674648fb57df4.ico"/></a>
+
 <a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
 <a src="https://vuejs.org/"><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
