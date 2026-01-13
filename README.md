@@ -19,6 +19,7 @@
 
 📊 **status**
 
+![Gm-aaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gm-aaa&show_icons=true&theme=radical)
 
 
 ### ⭐️ From [Gm-aaa](https://github.com/Gm-aaa)
