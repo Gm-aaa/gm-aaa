@@ -10,14 +10,14 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,tauri,linux,docker,nginx,android" />
+    <img src="https://skillicons.dev/icons?i=rust,tauri,linux,docker,nginx" />
   </a>
 </p>
 
 
 📊 **status**
 
-![Gm-aaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gm-aaa&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Gm-aaa&show_icons=true&theme=radical" alt="Gm-aaa's GitHub stats" />
 
 
 ### ⭐️ From [Gm-aaa](https://github.com/Gm-aaa)
