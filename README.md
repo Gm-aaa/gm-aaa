@@ -17,7 +17,8 @@
 
 📊 **status**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gm-aaa&show_icons=true&theme=radical" alt="Gm-aaa's GitHub stats" />
+![Gm-aaa's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gm-aaa&theme=radical)
+
 
 
 ### ⭐️ From [Gm-aaa](https://github.com/Gm-aaa)
