@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,linux,docker,nginx,java" />
+    <img src="https://skillicons.dev/icons?i=rust,java,linux,docker,nginx,cloudflare, raspberrypi" />
   </a>
 </p>
 
