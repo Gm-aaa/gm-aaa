@@ -10,7 +10,15 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,dioxus,java,linux,docker,nginx,cloudflare,raspberrypi,pr,ps,postgresql" />
+    <img src="https://skillicons.dev/icons?i=rust" />
+  </a>
+  
+  <a href="https://dioxuslabs.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/79236386?s=200&v=4" width="48" height="48" alt="Dioxus" />
+  </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,linux,docker,nginx,cloudflare,raspberrypi,pr,ps,postgresql" />
   </a>
 </p>
 
