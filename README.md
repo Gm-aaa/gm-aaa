@@ -18,7 +18,7 @@
   </a>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,linux,docker,nginx,cloudflare,raspberrypi,pr,ps,postgresql" height="48" alt="Other Skills" />
+    <img src="https://skillicons.dev/icons?i=tauri,flutter,linux,docker,nginx,cloudflare,raspberrypi,pr,ps,postgresql" height="48" alt="Other Skills" />
   </a>
 </p>
 
